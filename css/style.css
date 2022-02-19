@@ -16,6 +16,11 @@
 .fw-semi-bold {
     font-weight: 700 !important;
 }
+a{
+    text-decoration:none;
+    
+
+}
 
 .back-to-top {
     position: fixed;
